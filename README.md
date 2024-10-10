@@ -1,4 +1,4 @@
-# Spotify Revenue Analysis
+# Spotify Revenue & Forecasting
 
 ## Project Overview
 
@@ -68,4 +68,4 @@ Sales, R&D, Admin Costs: Costs incurred in sales and marketing, research and dev
 05 Sent to Client: The project document and final report presented in powerpoint.
 
 ## Disclaimer
-Note: This dataset does not reflect real Spotify data, as it was designed by a Kaggle.com user for data exploration purposes. The data has potential for bias and limitations as it was synthesized by a Kaggle.com user for learning purposes. 
+Note: This dataset does not reflect real Spotify data, as it was designed by a Kaggle.com user for data exploration purposes. The data has potential for bias and limitations as it was synthesized by a Kaggle.com user for learning purposes. ChatGPT was utilized for assistance with writing structure and grammar.
