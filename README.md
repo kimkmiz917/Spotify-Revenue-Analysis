@@ -52,7 +52,7 @@ Sales, R&D, Admin Costs: Costs incurred in sales and marketing, research and dev
 
 ● Modeling: Scikit-learn, Time Series Forecasting T ools (e.g., ARIMA)
 
-● Visualization: T ableau, Matplotlib, Seaborn
+● Visualization: Tableau, Matplotlib, Seaborn
 
 ● Deployment: Jupyter Notebooks, GitHub, PowerPoint for presentation
 
